@@ -43,4 +43,4 @@ ShiftCipher
 
 ---  
 Screenshot Output Program  
-![Screenshot](https://github.com/aaaabima/ShiftCipher/Screenshot.PNG "Screenshot Program")  
+![Screenshot](Screenshot.PNG "Screenshot Program")  
