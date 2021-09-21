@@ -21,7 +21,7 @@ Output :
 2. **String** : Decrypted Plain text. Result of decrypted letter as the initial plain text.  
 
 ---
-Source File : [ShiftCipher](https://github.com/aaaabima/ShiftCipher/ShiftCipher.cpp)  
+Source File : [ShiftCipher](ShiftCipher.cpp)  
 
 How to Run :  Compile using gcc / GNU Make  
 
